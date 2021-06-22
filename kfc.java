@@ -1,3 +1,6 @@
+//Abstraction Code
+//Code by:Abhinav Kumar
+//For Special MAR 2021(Coding Solution)
 import java.util.*;
 abstract class Kfc
 {
